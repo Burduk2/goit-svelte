@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    @apply bg-amber-50/80 w-[1200px] m-auto max-w-full border-x-2 border-gray-700 
+    min-h-screen;
+}
